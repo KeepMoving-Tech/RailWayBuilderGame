@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RailWayBuilder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RailWayBuilder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
